@@ -101,7 +101,7 @@ class SetGoogleCredentials(BaseHTTPMiddleware):
     "api": [
         {
             "middleware": "middlewares.api.SetGoogleCredentials",
-            "priority": 2
+            "priority": 1
         }
     ]
 }
