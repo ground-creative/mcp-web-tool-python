@@ -11,7 +11,7 @@ https://github.com/ground-creative/mcp-container-python
 2. Clone the repository in folder mcp_server
 
 ```
-cd mcp_servers
+cd mcp_server
 rm -rf tools
 git clone https://github.com/ground-creative/mcp-web-tool-python.git tools
 ```
