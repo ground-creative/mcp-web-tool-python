@@ -16,7 +16,7 @@ rm -rf tools
 git clone https://github.com/ground-creative/mcp-web-tool-python.git tools
 ```
 
-3. Create file /configlibs.json in root folder if it does not exist already, and add required dependencies:
+3. Create file config/libs.json in root folder if it does not exist already, and add required dependencies:
 
 ```
 [
